@@ -1,0 +1,169 @@
+html{
+    height: 100%;
+    background-image:url(bkg-blu.jpg);
+
+}
+
+
+body {
+  background-color:rgba(0,0,0,0.338);
+  
+  background-size:cover;
+  background-repeat:no-repeat;
+}
+
+.container {
+    margin-left: auto;
+   margin-right: auto;
+    
+    
+}
+
+
+
+header {
+   
+    height: 118px;
+    
+}
+
+nav{
+    background-color: rgba(0,0,0,0.338);
+    height: 30px;
+    width: 70%;
+    margin:auto;
+    text-align: center;
+}
+
+
+section {
+   
+    height: 400px;
+    width: 1024px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 150px;
+   
+}
+
+
+footer {
+   
+    height: 100px;
+    text-align:center;
+    padding-top:0px;
+    padding-bottom:70px;
+
+}
+
+h1 {
+    font-size: 84px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 25px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+   
+}
+
+
+section a, a:link {
+  color: red;
+  text-decoration: none; /* Optional: removes underline from links */
+}
+
+/* Visited link */
+section a, a:visited {
+  color: white;
+}
+
+/* Link when hovered */
+section a, a:hover {
+  color: hotpink;
+  text-decoration: underline; /* Optional: adds underline when hovered */
+}
+
+/* Active link (when clicked) */
+section a, a:active {
+  color: white;
+}
+
+nav a{
+padding-left:10px;
+padding-right:10px;
+}
+ footer p1 {
+    color:white;
+    height:120px;
+    font-size:20px;
+   
+
+ }
+ 
+div{
+    margin-left: 12%;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
